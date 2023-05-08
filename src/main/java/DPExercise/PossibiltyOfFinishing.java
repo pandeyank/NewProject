@@ -21,7 +21,7 @@ public class PossibiltyOfFinishing {
             }
             System.out.println();
         }
-
+        
 
 
 
