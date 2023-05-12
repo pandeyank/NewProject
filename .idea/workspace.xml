@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66507afc-d6dd-437d-ac3e-6545c8e3fa47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DPExercise/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/AddTwoNumbersasLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/MergeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/MergeSortLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/Merging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/ReorderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/SwapListNodesinpairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/add2numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/cycleDetectionExtraSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/cycleDetectionImprooved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/mergeSortDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/newCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/rearrangeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/starpointcycleAndREmoveCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/DLLiterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/DemoExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/Flattenalinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/HashMapHitandMiss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/PartionList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/PartitionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/intersectionPointExtraSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/intesectionPointImproovede.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/testCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -26,11 +21,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/PossibiltyOfFinishing.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/DPExercise/PossibiltyOfFinishing.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DPExercise/PossibiltyOfFinishing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DPExercise/PossibiltyOfFinishing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,9 +72,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReorderList">
-    <configuration name="LinkedlistExcersice.MergeSortLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.MergeSortLL" />
+  <component name="RunManager" selected="Application.Flattenalinkedlist">
+    <configuration name="Flattenalinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.Flattenalinkedlist" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedlistExcersice.ReverseKtimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.ReverseKtimes" />
+    <configuration name="HashMapHitandMiss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.HashMapHitandMiss" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedlistExcersice.ReverseLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.ReverseLL" />
+    <configuration name="PartionList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.PartionList1" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedlistExcersice.newCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.newCycle" />
+    <configuration name="PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.PartitionList" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.ReorderList" />
+    <configuration name="testCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.testCode" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReorderList" />
-        <item itemvalue="Application.LinkedlistExcersice.newCycle" />
-        <item itemvalue="Application.LinkedlistExcersice.MergeSortLL" />
-        <item itemvalue="Application.LinkedlistExcersice.ReverseKtimes" />
-        <item itemvalue="Application.LinkedlistExcersice.ReverseLL" />
+        <item itemvalue="Application.Flattenalinkedlist" />
+        <item itemvalue="Application.PartionList1" />
+        <item itemvalue="Application.PartitionList" />
+        <item itemvalue="Application.testCode" />
+        <item itemvalue="Application.HashMapHitandMiss" />
       </list>
     </recent_temporary>
   </component>
