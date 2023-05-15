@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66507afc-d6dd-437d-ac3e-6545c8e3fa47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/DLLiterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/DemoExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/Flattenalinkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/HashMapHitandMiss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/PartionList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/PartitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/intersectionPointExtraSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/intesectionPointImproovede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedlistExcersice/testCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/Passinggame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/balacedparanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/doubleTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/doubleTrouble1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/infix2postfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/postfixEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/postfixEvaluation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/redundentBraces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/stackImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/stackImplementation1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -72,13 +73,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Flattenalinkedlist">
-    <configuration name="Flattenalinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.Flattenalinkedlist" />
+  <component name="RunManager" selected="Application.redundentBraces">
+    <configuration name="Passinggame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackExcercises.Passinggame" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedlistExcersice.*" />
+          <option name="PATTERN" value="StackExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapHitandMiss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.HashMapHitandMiss" />
+    <configuration name="infix2postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackExcercises.infix2postfix" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedlistExcersice.*" />
+          <option name="PATTERN" value="StackExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartionList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.PartionList1" />
+    <configuration name="postfixEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackExcercises.postfixEvaluation" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedlistExcersice.*" />
+          <option name="PATTERN" value="StackExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.PartitionList" />
+    <configuration name="postfixEvaluation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackExcercises.postfixEvaluation1" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedlistExcersice.*" />
+          <option name="PATTERN" value="StackExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedlistExcersice.testCode" />
+    <configuration name="redundentBraces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackExcercises.redundentBraces" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedlistExcersice.*" />
+          <option name="PATTERN" value="StackExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Flattenalinkedlist" />
-        <item itemvalue="Application.PartionList1" />
-        <item itemvalue="Application.PartitionList" />
-        <item itemvalue="Application.testCode" />
-        <item itemvalue="Application.HashMapHitandMiss" />
+        <item itemvalue="Application.redundentBraces" />
+        <item itemvalue="Application.Passinggame" />
+        <item itemvalue="Application.postfixEvaluation1" />
+        <item itemvalue="Application.postfixEvaluation" />
+        <item itemvalue="Application.infix2postfix" />
       </list>
     </recent_temporary>
   </component>
