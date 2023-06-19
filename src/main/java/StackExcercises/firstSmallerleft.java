@@ -1,6 +1,6 @@
 package StackExcercises;
 
-public class firstSmaller {
+/*public class firstSmaller {
     public static void main(String[] args) {
         int[] arr={4,5,2,10,3,12};
         int n=arr.length;
@@ -25,4 +25,4 @@ public class firstSmaller {
             System.out.print(res[i] +" ");
         }
     }
-}
+}*/

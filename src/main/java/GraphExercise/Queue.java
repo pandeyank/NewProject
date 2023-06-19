@@ -6,7 +6,7 @@ public class Queue<N> {
     int front;
     int rear;
     int size;
-    Queue(int n)
+    public Queue(int n)
     {
         front=0;
         rear=-1;
