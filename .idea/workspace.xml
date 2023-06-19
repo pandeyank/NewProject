@@ -5,25 +5,384 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66507afc-d6dd-437d-ac3e-6545c8e3fa47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/Passinggame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/balacedparanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/doubleTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/doubleTrouble1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/infix2postfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/postfixEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/postfixEvaluation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/redundentBraces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/stackImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackExcercises/stackImplementation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Constructor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Constructor/classA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Constructor/classB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Constructor/classC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Constructor/classD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/ICICI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/Sbi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/classA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/classB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/PolymorphismExample/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AdvanceHashing/longestSeq 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AdvanceHashing/longestSeq 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AdvanceHashing/longestSeq 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AdvanceHashing/longestSeqHashing 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AdvanceHashing/longestSeqHashing 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/BestTimetoBuyandSellStocksII 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/BestTimetoBuyandSellStocksII 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/BestTimetoBuyandSellStocksII 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/BestTimetoBuyandSellStocksII 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/Employee 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/Employee 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/Employee 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/Employee 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary$1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/EmployeeTop5Salary$1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/LongestPalindromicSubstring 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/LongestPalindromicSubstring 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/LongestPalindromicSubstring 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/LongestPalindromicSubstring 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/LongestPalindromicSubstring 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/MaxSumWithoutAdjacentElements 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/MaxSumWithoutAdjacentElements 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/MaxSumWithoutAdjacentElements 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/MergeSort 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/MinimumNumberofSquares 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/MinimumNumberofSquares 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/PossibiltyOfFinishing 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/PossibiltyOfFinishing 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/PossibiltyOfFinishing 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/UniquePathsinaGrid 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/UniquePathsinaGrid 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/UniquePathsinaGrid 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/Waystosendthesignal 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/Waystosendthesignal 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countPaths 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countPaths 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countPaths 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countPathsImproove 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countPathsImproove 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countPathsImproove 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countWays1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countWays1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countWays1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/countWays1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciDynamic 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciDynamic 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciDynamic 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciDynamic 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciDynamic 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciDynamic 7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciRecursion 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fibonacciRecursion 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator$1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator$1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator$1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator$1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator$1 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalComparator$1 7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1$1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1$1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/fractionalKnapsack1$1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/longestIncreasingSubsequence 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/longestIncreasingSubsequence 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/longestIncreasingSubsequence 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/minCostPath 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/minCostPath 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/minCostPath 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/minCostPath 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/new12 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/new12 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/new12 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/pair 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/pair 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/temp 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/temp 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/temp 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/temp 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/unBoundedKnapsack 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DPExercise/unBoundedKnapsack 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Dijkastra 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Graph1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Graph1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Graph1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Graph1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1$1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1$1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1$Pair 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1$Pair 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1$Pair 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/HashMapdemo1$Pair 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2$1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2$1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2$1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2$Pair 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Hashmapdemo2$Pair 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/NumberOfIslands 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/NumberOfIslands 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/NumberOfIslands 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/NumberOfIslands 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/NumberOfIslands 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/NumberOfIslands 7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PriorityQueue1 8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PrirityQueueDemo 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/PrirityQueueDemo 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue 7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue2 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue2 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue2 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue2 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/Queue2 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/QueueDemo 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/QueueDemo 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/QueueDemo 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/TopologicalSort 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/TopologicalSort 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/TopologicalSort 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/TopologicalSort 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/TopologicalSort 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava1 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava2 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava2 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/mainjava2 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue1 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue1 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue1 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue1 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue3 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue3 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GraphExercise/queue3 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/AddTwoNumbersasLists 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/AddTwoNumbersasLists$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/DemoExam 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/HashMapHitandMiss 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MergeList 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MergeList 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MergeList$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MergeList$Node 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MergeList$Node 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MergeSortLL 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/Merging 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MiddleElement 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MiddleElement 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MiddleElement 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/MiddleElement$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/Node 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/PartionList1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/PartionList1$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/PartitionList 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/PartitionList$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/RemoveNthNodefromListEnd 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/RemoveNthNodefromListEnd 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/RemoveNthNodefromListEnd$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/RemoveNthNodefromListEnd$Node 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/RemoveNthNodefromListEnd$Node 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReorderList 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReorderList$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseFirstKLL 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseFirstKLL 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseFirstKLL$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseKtimes 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseKtimes 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseKtimes 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseKtimes$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseKtimes$Node 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseLL 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseLL 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseLL$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/ReverseLL$Node 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/SwapListNodesinpairs 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/SwapListNodesinpairs$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/add2numbers 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/add2numbers$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/cycleDetectionExtraSpace 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/cycleDetectionImprooved 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/cycleDetectionImprooved$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/intersectionPointExtraSpace 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/intersectionPointExtraSpace$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/intesectionPointImproovede$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/mergeSortDemo 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/mergeSortDemo$Node1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/newCycle 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/newCycle$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/newReverse 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/newReverse$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/newReverse$Node 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/printAllNode$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/rearrangeList 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/rearrangeList$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/starpointcycleAndREmoveCycle 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/starpointcycleAndREmoveCycle$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/testCode 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LinkedlistExcersice/testCode$Node 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/ddtod.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/ddtod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstGreaterImprooved.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstGreaterImprooved.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstGreaterRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstGreaterRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstGreaterleft.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstGreaterleft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerRightImprooved.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerRightImprooved.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerleft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerleftImproved.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerleftindex.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/firstSmallerleftindex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/minStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/minStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/smallerIndexRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StackExcercises/smallerIndexRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Aggresivecows 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ColorfulNumber 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ColorfulNumber 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Main 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Map 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/MapStringEqual 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/MappingOptimize 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/PPP 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Prograam 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Prograam 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Sortmain 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/dem 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo10 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo11 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo12 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo13 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo13 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo13 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo14 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo16 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo17 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo17 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo18 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo19 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo20 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo21 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo22 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo23 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo23 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo24 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo24 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo24 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo25 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo25 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo27 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo28 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo28 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo29 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo29 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo29 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo31 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo32 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo33 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo33 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo33 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo34 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo34 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo35 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo36 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo37 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo38 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo39 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo40 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo41 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo42 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo43 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo44 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo44 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo44 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo44 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo45 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo45 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo46 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo47 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo47 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo48 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo48 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo48 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo48 5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo49 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo49 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo50 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo51 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo51 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo51 6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo52 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo52 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo52 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo53 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo53 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo7 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo8 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo9 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/demo9 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/frequencyArray 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/gcd 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashdemo 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashing 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashingSliding 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashingSliding 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashingdemo 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashingdemo 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashingoptmize 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashingoptmize 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hashmap2 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ppp2 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/shaggyDistance 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/shaggyDistanceOptimize 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/sort1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/stac 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/stac 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/stringEqual 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/subarray 2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackExcercises/firstSmallerleftImproved.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,19 +426,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "/Users/ankitpandey/NewProject",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.redundentBraces">
-    <configuration name="Passinggame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackExcercises.Passinggame" />
+}]]></component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.PolymorphismExample.Constructor.Client" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackExcercises.*" />
+          <option name="PATTERN" value="LLD.PolymorphismExample.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +450,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="infix2postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackExcercises.infix2postfix" />
+    <configuration name="LLD.PolymorphismExample.main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.PolymorphismExample.main1" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackExcercises.*" />
+          <option name="PATTERN" value="LLD.PolymorphismExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="postfixEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackExcercises.postfixEvaluation" />
+    <configuration name="LLD.PolymorphismExample.main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.PolymorphismExample.main2" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackExcercises.*" />
+          <option name="PATTERN" value="LLD.PolymorphismExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +476,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="postfixEvaluation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackExcercises.postfixEvaluation1" />
+    <configuration name="main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.PolymorphismExample.main3" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackExcercises.*" />
+          <option name="PATTERN" value="LLD.PolymorphismExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +489,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="redundentBraces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackExcercises.redundentBraces" />
+    <configuration name="main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.PolymorphismExample.main4" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackExcercises.*" />
+          <option name="PATTERN" value="LLD.PolymorphismExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +504,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.redundentBraces" />
-        <item itemvalue="Application.Passinggame" />
-        <item itemvalue="Application.postfixEvaluation1" />
-        <item itemvalue="Application.postfixEvaluation" />
-        <item itemvalue="Application.infix2postfix" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.main4" />
+        <item itemvalue="Application.main3" />
+        <item itemvalue="Application.LLD.PolymorphismExample.main2" />
+        <item itemvalue="Application.LLD.PolymorphismExample.main1" />
       </list>
     </recent_temporary>
   </component>
