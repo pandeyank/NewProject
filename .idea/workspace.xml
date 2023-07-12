@@ -5,114 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66507afc-d6dd-437d-ac3e-6545c8e3fa47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdvanceHashing/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HashSet/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HashSet/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/CustomerDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/EmpDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/BobTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/Hard2Readtostring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/HorseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/Moof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/MppfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/Roof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/RoofTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/Try2Read2String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/override2string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Generics/override2string2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/ArrayListIteratorDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/ArrayListUsingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/MaxMiniterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/NodeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/TestNodeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Iterator/characterA2Z.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/ADDSUBDemo/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/ADDSUBDemo/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/ADDSUBDemo/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/ADDSUBDemo/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking/ClassAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking/classHusband.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking/classWife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo/ICICI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo1/AccountDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo1/BankMAin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo1/CompanyA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo1/CompanyB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/BankingDemo2/AccountDanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/SumMinusDemo/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/SumMinusDemo/Minus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/SumMinusDemo/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/SumMinusDemo/value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/HelloWorldPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/NumberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/NumberPrinter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/Threading/client4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/BikePurchasePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/BrowserPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/Client4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/Client5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/FanPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/NamePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/NaturalSumPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/calculatorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Callable/showsPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Client9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Cliet14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/FestivalPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/GharPahuchoPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/HomePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Merge2Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/MergeSortDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/Mythread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/NoteBookPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/NumberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/RailwayTicketPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/StringPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/TempleTourPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/TopperServicePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/TravelPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/WaterServicePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/executorJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/preparingSubjectPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/printJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/printerJobImplementaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/purchasingFanPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/executors/purchasingFlatPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortingTechniques/MergeSortDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortingTechniques/merge2sortedarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringExcercises/GCDofString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DurgaSirJavaPractice/Generics/Generics1ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/EmpDetails2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/ProductDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -122,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LLD/EmployeeDetails/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,24 +62,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "/Users/ankitpandey/NewProject/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ankitpandey/NewProject/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/LLD/Synchronizations/AdderSuntractor/Banking" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DSirPracticeJava" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerDetails">
-    <configuration name="CustomerDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD.EmployeeDetails.CustomerDetails" />
+  <component name="RunManager" selected="Application.Generics1ArrayList">
+    <configuration name="DurgaSirPracticeJava.Generics.Problem1usingAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DurgaSirPracticeJava.Generics.Problem1usingAL" />
+      <module name="NewProject.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DurgaSirPracticeJava.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpDetails2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.EmployeeDetails.EmpDetails2" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
@@ -194,51 +107,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmpDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD.EmployeeDetails.EmpDetails" />
+    <configuration name="Generics1ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DurgaSirJavaPractice.Generics.Generics1ArrayList" />
+      <module name="NewProject.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DurgaSirJavaPractice.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem1usingAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSirPracticeJava.Generics.Problem1usingAL" />
+      <module name="NewProject.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSirPracticeJava.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.EmployeeDetails.ProductDetails" />
       <module name="NewProject.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LLD.EmployeeDetails.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxMiniterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD.Iterator.MaxMiniterator" />
-      <module name="NewProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LLD.Iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNodeIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD.Iterator.TestNodeIterator" />
-      <module name="NewProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LLD.Iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="characterA2Z" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD.Iterator.characterA2Z" />
-      <module name="NewProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LLD.Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomerDetails" />
-        <item itemvalue="Application.EmpDetails" />
-        <item itemvalue="Application.characterA2Z" />
-        <item itemvalue="Application.MaxMiniterator" />
-        <item itemvalue="Application.TestNodeIterator" />
+        <item itemvalue="Application.Generics1ArrayList" />
+        <item itemvalue="Application.DurgaSirPracticeJava.Generics.Problem1usingAL" />
+        <item itemvalue="Application.Problem1usingAL" />
+        <item itemvalue="Application.EmpDetails2" />
+        <item itemvalue="Application.ProductDetails" />
       </list>
     </recent_temporary>
   </component>

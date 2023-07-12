@@ -1,6 +1,6 @@
 package LLD.EmployeeDetails;
 
-public class Employee {
+public class Employee implements Comparable<Employee> {
     private int empid;
     private String empname;
     private int empsal;
@@ -23,8 +23,20 @@ public class Employee {
         return empsal;
     }
 
+
+    @Override
+    public int compareTo(Employee o) {
+        if(this.getEmpsal()<o.getEmpsal())
+        {
+            return 1;
+        }
+        else {
+            return -1;
+        }
+    }
     @Override
     public String toString() {
         return ("Employee id is:" +empid +" Employee Name is:" +empname+ " Employee Salary is:" +empsal);
     }
+
 }
